@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yyf24br4o-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yyf24br4o-java-springboot-gitops
